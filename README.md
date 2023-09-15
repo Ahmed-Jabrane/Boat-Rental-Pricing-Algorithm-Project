@@ -5,11 +5,11 @@
 
 The Boat Rental Pricing Algorithm Project aims to develop a reliable and efficient pricing algorithm for boat rentals in various popular locations in France, including Marseille, Cassis, Hyères, Cannes, Corse, and La Rochelle. The project leverages data retrieved from the "clickandboat" website to analyze various factors that influence the pricing of boat rentals in these locations.
 
-Key components of the project include:
+### Key components of the project include:
 1. **Data Retrieval**: A module that facilitates the retrieval of boat rental data from the "clickandboat" website.
 2. **Data Analysis**: Exploratory data analysis to identify factors that influence boat rental prices and to gather insights that will inform the pricing algorithm.
 3. **Pricing Algorithm**: Development of a pricing algorithm that uses the data and insights gathered to suggest optimal rental prices. This might involve the use of mathematical models or machine learning algorithms.
-4. **Web Application**: A Flask web application that provides a user interface or API for interacting with the pricing algorithm, potentially allowing users to input data and receive pricing recommendations.
+4. **Web Application**: A Streamlit web application that provides a user interface or API for interacting with the pricing algorithm, potentially allowing users to input data and receive pricing recommendations.
 
 ## Structure
 
