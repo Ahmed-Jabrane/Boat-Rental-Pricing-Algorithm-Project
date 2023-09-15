@@ -34,4 +34,4 @@ To use the project:
 
 Contributions to the project are welcome. Please follow the contribution guidelines outlined in the `CONTRIBUTING.md` file (to be created).
 
-This description outlines the main components and goals of your project. You can add more details, such as the technologies used, the methods applied in the pricing algorithm, screenshots of the application, etc., as the project progresses. You can also create additional documentation files, like a `CONTRIBUTING.md` file to guide potential contributors.
+
